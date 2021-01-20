@@ -13,11 +13,13 @@ https://beautifulsoup.readthedocs.io/zh_CN/v4.4.0/#id64
      jupyter notebook
      ```
 - Requests
+
     發送網路請求的套件，如get和post
      ```
      pip install requests
      ```
 - Beautifulsoup4
+
     解析網頁的工具，可以提取HTML標籤裡的元素
      ```
      pip install beautifulsoup4
