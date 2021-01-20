@@ -4,7 +4,7 @@
 ## BeautifulSoup中文文件
 https://beautifulsoup.readthedocs.io/zh_CN/v4.4.0/#id64
 
-## Requirements
+## 環境
  - Python
  - pip
  - jupyter notebook
